@@ -1,0 +1,24 @@
+C:\Users\Nikit\Downloads\EncryptFile\EncryptFile\obj\Debug\EncryptFile.exe
+C:\Users\Nikit\Downloads\EncryptFile\EncryptFile\obj\Debug\EncryptFile.pdb
+C:\Users\Nikit\Downloads\EncryptFile\EncryptFile\bin\Debug\EncryptFile.exe
+C:\Users\Nikit\Downloads\EncryptFile\EncryptFile\bin\Debug\EncryptFile.pdb
+C:\Users\Nikit\Downloads\EncryptFile\EncryptFile\obj\Debug\EncryptFile.Form1.resources
+C:\Users\Nikit\Downloads\EncryptFile\EncryptFile\obj\Debug\EncryptFile.Properties.Resources.resources
+C:\Users\Nikit\Downloads\EncryptFile\EncryptFile\obj\Debug\EncryptFile.csproj.GenerateResource.Cache
+C:\Users\Nikit\Downloads\EncryptFile\EncryptFile\obj\Debug\EncryptFile.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\crypt\crypt\EncryptFile\EncryptFile\obj\Debug\EncryptFile.exe
+C:\Users\Admin\Downloads\crypt\crypt\EncryptFile\EncryptFile\obj\Debug\EncryptFile.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\crypt\crypt\EncryptFile\EncryptFile\obj\Debug\EncryptFile.Form1.resources
+C:\Users\Admin\Downloads\crypt\crypt\EncryptFile\EncryptFile\obj\Debug\EncryptFile.Properties.Resources.resources
+C:\Users\Admin\Downloads\crypt\crypt\EncryptFile\EncryptFile\obj\Debug\EncryptFile.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\crypt\crypt\EncryptFile\EncryptFile\bin\Debug\EncryptFile.exe
+C:\Users\Admin\Downloads\crypt\crypt\EncryptFile\EncryptFile\bin\Debug\EncryptFile.pdb
+C:\Users\Admin\Downloads\crypt\crypt\EncryptFile\EncryptFile\obj\Debug\EncryptFile.pdb
+D:\data\documents\Visual Studio 2010\Projects\EncryptFile\EncryptFile\obj\Debug\EncryptFile.exe
+D:\data\documents\Visual Studio 2010\Projects\EncryptFile\EncryptFile\obj\Debug\EncryptFile.pdb
+D:\data\documents\Visual Studio 2010\Projects\EncryptFile\EncryptFile\bin\Debug\EncryptFile.exe
+D:\data\documents\Visual Studio 2010\Projects\EncryptFile\EncryptFile\bin\Debug\EncryptFile.pdb
+D:\data\documents\Visual Studio 2010\Projects\EncryptFile\EncryptFile\obj\Debug\EncryptFile.csprojResolveAssemblyReference.cache
+D:\data\documents\Visual Studio 2010\Projects\EncryptFile\EncryptFile\obj\Debug\EncryptFile.Form1.resources
+D:\data\documents\Visual Studio 2010\Projects\EncryptFile\EncryptFile\obj\Debug\EncryptFile.Properties.Resources.resources
+D:\data\documents\Visual Studio 2010\Projects\EncryptFile\EncryptFile\obj\Debug\EncryptFile.csproj.GenerateResource.Cache
